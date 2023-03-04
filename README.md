@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Mouse+Memoirs&size=30&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Hello%2C%0A+I+am+Hiren+Keraliya;)](https://git.io/typing-svg)
-
 I'm a professional web developer with expertise in Laravel framework. I love building scalable and efficient web applications that provide value to users. I have extensive experience in full-stack web development and have worked on projects of all sizes, from small business websites to large enterprise applications.
 
 ## Skills and Technologies
