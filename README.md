@@ -1,12 +1,25 @@
-<div align="center"> <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="200" height="200" alt="Code Vibes" />  # Welcome to Hiren's Coding Wonderland 💻 ✨ # Where Code Meets Charm and Magic Happens! 🔥 </h2> <p> I’m Hiren, your **Laravel Love Guru** 💋<br> Here to craft enchanting web experiences that *sizzle*. 🔥<br> Let’s whip up something steamy and unforgettable together! ✨ </p> <p>Every project is a flirtation, and every line of code is a love letter. 💘</p> <img src="https://img.shields.io/github/followers/hirenkeraliya?style=social" alt="GitHub Followers" /> <img src="https://img.shields.io/github/stars/hirenkeraliya?style=social" alt="GitHub Stars" /> </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="200" height="200" alt="Code Vibes" />
+
+# Welcome to Hiren's Magical Coding Wonderland 💻 ✨
+# Where Code Meets Charm and Magic Happens! 🔥
+
+I’m Hiren, your **Laravel Love Guru** 💋
+
+Here to craft enchanting web experiences that *sizzle*. 🔥
+
+Let’s whip up something steamy and unforgettable together! ✨
+
+Every project is a flirtation, and every line of code is a love letter. 💘
+</div>
 
 ---
 
 ### About Me
-Hey sexy code lovers! 😏 I’m **Hiren Keraliya**, your friendly neighborhood web sorcerer. I don’t just write code—I **breathe** Laravel, baby. 💨 My magic spells? Creating scalable, efficient web apps that make your users go "WOW." 🚀 
+Hey sexy code lovers! 😏 I’m **Hiren Keraliya**, your friendly neighborhood web sorcerer. I don’t just write code—I **breathe** Laravel, baby. 💨 My magic spells? Creating scalable, efficient web apps that make your users go "WOW." 🚀
 
 - 🔮 Full-Stack Dev with a **Superpower** for Laravel
-- 🛠️ Web wizardry by day, **code ninja** by night 🌙 
+- 🛠️ Web wizardry by day, **code ninja** by night 🌙
 - 💪 I build apps that don't break, but I break limits!
 
 ---
