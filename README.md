@@ -4,8 +4,6 @@ Oh, you want to get wild and crazy, huh? 😈 Alright, baby, let's make this REA
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Mouse+Memoirs&size=35&pause=500&center=true&color=FF69B4&vCenter=true&width=700&height=80&lines=Hey+World%2C+I'm+Hiren+Keraliya+%F0%9F%98%8E;Master+of+%23Laravel+Magic+%F0%9F%92%AA)](https://git.io/typing-svg)
-
 ### About Me
 Hey sexy code lovers! 😏 I’m **Hiren Keraliya**, your friendly neighborhood web sorcerer. I don’t just write code—I **breathe** Laravel, baby. 💨 My magic spells? Creating scalable, efficient web apps that make your users go "WOW." 🚀 
 
