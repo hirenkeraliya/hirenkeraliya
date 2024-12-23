@@ -41,7 +41,7 @@ You know you wanna... Hit me up anytime! Let’s cook up something amazing or ju
 
 - 📧 [Shoot me an email](mailto:hirenkeradiya@gmail.com)
 - 🐦 [Catch me on Twitter](https://twitter.com/HirenKeraliya)
-- 💼 [Or hit up my LinkedIn](https://linkedin.com/in/yourname)
+- 💼 [Or hit up my LinkedIn](https://www.linkedin.com/in/hiren-keraliya)
 
 Let’s set the tech world on fire together! 🔥💥
 
