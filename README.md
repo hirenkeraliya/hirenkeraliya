@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="200" height="200" alt="Code Vibes" />
+  <img src="https://streak-stats.demolab.com?user=hirenkeraliya&exclude_days=Sun%2CSat&background=45%2C93A5CF%2CE4EFE9" alt="GitHub Streak" />
 
 # Welcome to Hiren's Magical Coding Wonderland 💻 ✨
 # Where Code Meets Charm and Magic Happens! 🔥
